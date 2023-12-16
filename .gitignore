@@ -1,0 +1,13 @@
+venv
+venv/*
+env
+.env
+__pycache__
+*.egg-info
+/target*
+/dist*
+build
+var
+node_modules
+bower_components
+test*/reports
